@@ -1,0 +1,20 @@
+@media screen and (max-width:768px){
+  header div.wrap h1 a{
+  width: 100px;
+  height: 60px;
+  margin-left: 20px;
+  }
+  header div.wrap ul.gnb{
+    display: none;
+  }
+  #title div.wrap h2{
+    font-size: 40px;
+  }
+  #title::after{
+    width: 150px;
+    height: 150px;
+  }
+  #aboutme div.wrap{
+    height: 700px;
+  }
+}
