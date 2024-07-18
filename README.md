@@ -22,8 +22,9 @@
 
 ## 포트폴리오 작품
 (작품들을 나열하고 각 작품에 대한 간략한 설명과 링크 제공)
-삼성전자 클론코딩 http://testyong.dothome.co.kr/pf1/main.html
-ACCUNIQ https://pageservice.github.io/pf1/
+- 한국교직원공제회 https://dasom8884.github.io/pf1/
+- 알툴즈 https://dasom8884.github.io/pf2/
+- HITEjinro  https://dasom8884.github.io/pf3/
 
 ## 스크린샷 또는 데모(포트폴리오 웹사이트의 스크린샷을 추가)
 ![pf1](https://dasom8884.github.io/pf1/)
@@ -53,7 +54,7 @@ ACCUNIQ https://pageservice.github.io/pf1/
 
 
 ## 작성자 정보
-(이메일 주소나 연락처 정보를 추가)
+- email : letter8884@gmail.com
 
 ## 향후 계획 (선택 사항)
 (추가적인 기능 개발, 디자인 개선, 사용자 피드백 수렴 등)
