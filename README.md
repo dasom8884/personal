@@ -1,6 +1,6 @@
 # 이다솜's 포트폴리오 홈페이지
 
-### https://pageservice.github.io/personal/
+### https://dasom8884.github.io/personal/
 
 취업을 위한 포트폴리오 제작, 자신의 작업을 전시하고 홍보
 
