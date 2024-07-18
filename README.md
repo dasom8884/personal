@@ -28,7 +28,7 @@
 - HITEjinro  https://dasom8884.github.io/pf3/
 - OHUI  https://dasom8884.github.io/pf4/
 ## 스크린샷 또는 데모(포트폴리오 웹사이트의 스크린샷을 추가)
-![pf1]![pf1](https://github.com/user-attachments/assets/22b36419-c5c2-4cbe-934e-561a439ac89f)
+![pf1](https://github.com/user-attachments/assets/22b36419-c5c2-4cbe-934e-561a439ac89f)
 ![pf2](https://github.com/pageservice/personal/assets/71798491/1a7c723b-1e1b-4cb6-9f45-6b17b89482e9)
 ![pf1-어큐닉](https://github.com/pageservice/personal/assets/71798491/3e7a5d1c-3326-4ffc-ac79-3fe4a96fe6a3)
 ![pf4](https://github.com/pageservice/personal/assets/71798491/e8b59bed-76df-470c-8aec-71f580ab6cca)
