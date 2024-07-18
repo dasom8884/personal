@@ -1,12 +1,12 @@
 # personal
-(README 파일을 작성할 때, 명확하고 정보를 잘 전달할 수 있도록 노력하세요. 이 파일은 취업 또는 협업 기회를 위한 중요한 자료가 될 수 있습니다.)
+
 ### https://pageservice.github.io/personal/
 # 프로젝트 명 : 이다솜's 포트폴리오 홈페이지
 <h1>제목</h1>## 프로젝트 목표
 취업을 위한 포트폴리오 제작, 자신의 작업을 전시하고 홍보
 
 ## 기술 스텍
-(프로젝트를 개발할 때 사용한 기술 스택과 도구를 나열)
+
 - HTML5
 - css3
 - jquery
@@ -28,12 +28,12 @@
 - HITEjinro  https://dasom8884.github.io/pf3/
 - OHUI  https://dasom8884.github.io/pf4/
 - 
-## 스크린샷 또는 데모(포트폴리오 웹사이트의 스크린샷을 추가)
-![pf1](https://github.com/user-attachments/assets/22b36419-c5c2-4cbe-934e-561a439ac89f)
-![pf2][pf2-testsumnail](https://github.com/user-attachments/assets/2987f4b6-212d-4708-817c-b1afc6fe659e)
-![pf2-ver2]![PF2 ver2](https://github.com/user-attachments/assets/74f7597e-9b5f-4148-b9fc-d752da948258)
-![pf3](https://github.com/user-attachments/assets/727351d3-33d9-47ef-9476-b792b8edfac3)
-![pf4](https://github.com/user-attachments/assets/68287a99-1e8e-440c-838d-3b8258ef0af2)
+## 스크린샷 또는 데모
+![pf1-1](https://github.com/user-attachments/assets/32da4e37-2fa5-4776-b13c-10dd17e065cf)
+![pf2-1](https://github.com/user-attachments/assets/3ae90347-1f3d-4255-9fff-7a57ed0b74aa)
+![pf2-ver2-1](https://github.com/user-attachments/assets/46bc0213-e667-4647-a9d5-80345452e740)
+![pf3-1](https://github.com/user-attachments/assets/2e7ac0cd-9f5b-46fa-ae05-77d493248581)
+![pf4-1](https://github.com/user-attachments/assets/606b5cc9-a99d-49ae-b786-599a9dfc1a92)
 
 
 
