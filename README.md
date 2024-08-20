@@ -26,7 +26,8 @@
 - CGV https://dasom8884.github.io/pf2-ver2/
 - HITEjinro  https://dasom8884.github.io/pf3/
 - OHUI  https://dasom8884.github.io/pf4/
-- 
+- 디델리 https://dasom8884.github.io/pf5/
+- 디델리 리뉴얼  https://dasom8884.github.io/pf5-2/
 ## 스크린샷 또는 데모
 ![pf1-1](https://github.com/user-attachments/assets/32da4e37-2fa5-4776-b13c-10dd17e065cf)
 ![pf2-1](https://github.com/user-attachments/assets/3ae90347-1f3d-4255-9fff-7a57ed0b74aa)
@@ -53,4 +54,4 @@
 - email : letter8884@gmail.com
 
 ## 향후 계획 (선택 사항)
-(추가적인 기능 개발, 디자인 개선, 사용자 피드백 수렴 등)
+
