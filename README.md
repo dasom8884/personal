@@ -2,7 +2,6 @@
 
 ### https://dasom8884.github.io/personal/
 
-취업을 위한 포트폴리오 제작, 자신의 작업을 전시하고 홍보
 
 ## 기술 스텍
 
@@ -12,7 +11,6 @@
 - javascript
 
 ## 기능 및 섹션
-(웹사이트의 주요 기능과 섹션을 설명)
 
 - 포트폴리오 작품 게시
 - 자기소개 페이지
@@ -20,7 +18,7 @@
 - 이력서 다운로드 
 
 ## 포트폴리오 작품
-(작품들을 나열하고 각 작품에 대한 간략한 설명과 링크 제공)
+
 - 한국교직원공제회 https://dasom8884.github.io/pf1/
 - 알툴즈 https://dasom8884.github.io/pf2/
 - CGV https://dasom8884.github.io/pf2-ver2/
@@ -53,5 +51,4 @@
 ## 작성자 정보
 - email : letter8884@gmail.com
 
-## 향후 계획 (선택 사항)
 
